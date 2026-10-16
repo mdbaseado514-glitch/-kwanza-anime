@@ -1,0 +1,68 @@
+
+[
+  {
+    "id": "solo-leveling",
+    "titulo": "Solo Leveling",
+    "generos": ["Ação", "Fantasia"],
+    "ano": 2024,
+    "estado": "Em andamento",
+    "sinopse": "Sung Jinwoo, considerado um caçador fraco, recebe uma oportunidade extraordinária para evoluir e enfrentar desafios cada vez maiores.",
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": 12
+      },
+      {
+        "numero": 2,
+        "episodios": 13
+      }
+    ],
+    "capa": "",
+    "linkOficial": ""
+  },
+  {
+    "id": "one-piece",
+    "titulo": "One Piece",
+    "generos": ["Ação", "Aventura", "Comédia"],
+    "ano": 1999,
+    "estado": "Em andamento",
+    "sinopse": "Monkey D. Luffy parte numa grande aventura pelo mar para encontrar o lendário tesouro One Piece e tornar-se o Rei dos Piratas.",
+    "temporadas": [],
+    "capa": "",
+    "linkOficial": ""
+  },
+  {
+    "id": "demon-slayer",
+    "titulo": "Demon Slayer",
+    "generos": ["Ação", "Fantasia", "Drama"],
+    "ano": 2019,
+    "estado": "Série com filmes",
+    "sinopse": "Tanjiro Kamado torna-se caçador de demónios na esperança de salvar a irmã e enfrentar a ameaça que mudou a sua família.",
+    "temporadas": [],
+    "capa": "",
+    "linkOficial": ""
+  },
+  {
+    "id": "naruto-shippuden",
+    "titulo": "Naruto Shippuden",
+    "generos": ["Ação", "Aventura"],
+    "ano": 2007,
+    "estado": "Concluído",
+    "sinopse": "Naruto regressa à sua aldeia e enfrenta novos perigos enquanto procura proteger os seus amigos e cumprir a promessa de se tornar Hokage.",
+    "temporadas": [],
+    "capa": "",
+    "linkOficial": ""
+  },
+  {
+    "id": "jujutsu-kaisen",
+    "titulo": "Jujutsu Kaisen",
+    "generos": ["Ação", "Fantasia", "Sobrenatural"],
+    "ano": 2020,
+    "estado": "Em andamento",
+    "sinopse": "Yuji Itadori entra no mundo da feitiçaria após um encontro com um objeto amaldiçoado, passando a combater ameaças sobrenaturais.",
+    "temporadas": [],
+    "capa": "",
+    "linkOficial": ""
+  }
+    ]
+    
